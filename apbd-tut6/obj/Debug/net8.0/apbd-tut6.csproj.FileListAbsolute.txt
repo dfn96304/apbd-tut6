@@ -226,3 +226,4 @@ C:\Users\s30496\RiderProjects\apbd-tut6\apbd-tut6\bin\Debug\net8.0\runtimes\win\
 C:\Users\s30496\RiderProjects\apbd-tut6\apbd-tut6\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\s30496\RiderProjects\apbd-tut6\apbd-tut6\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\s30496\RiderProjects\apbd-tut6\apbd-tut6\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\s30496\RiderProjects\apbd-tut6\apbd-tut6\obj\Debug\net8.0\apbd-tut6.sourcelink.json

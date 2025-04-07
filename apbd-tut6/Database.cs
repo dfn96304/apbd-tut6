@@ -4,5 +4,5 @@ namespace apbd_tut6;
 
 public class Database
 {
-    public static List<Animal> animals = new List<Animal>();
+    public static List<Animal> Animals = new List<Animal>();
 }
